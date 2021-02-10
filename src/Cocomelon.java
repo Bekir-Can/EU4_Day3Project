@@ -4,6 +4,7 @@ public class Cocomelon {
 
         //hour2 new class
         //This is practicing of Git&Github
+        //adding the more lines and commiting
 
     }
 }
