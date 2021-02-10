@@ -4,5 +4,6 @@ public class Main {
 
         System.out.println("Hello Git Last Day"); //We printed out
         //EU4 excited !!!!
+        //EU4 is dedicated
     }
 }
